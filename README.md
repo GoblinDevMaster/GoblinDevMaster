@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GoblinDevMaster
+- 👀 I’m interested in coding and work with team
+- 🌱 I’m currently learning DevOps
+- 📫 How to reach me abdulaziz.nabijonov02@gmail.com
+- ⚡ Fun fact: I'm boy
